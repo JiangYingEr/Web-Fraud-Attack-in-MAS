@@ -3,10 +3,10 @@
 By default, the .py files in the following directories are built using MetaGPT.
 ```
 
-├── struct1/  # Linear
-├── struct2/  # Review           
-├── struct3/  # Debate
-├── struct4/  # Vote
+├── Linear
+├── Review           
+├── Debate
+├── Vote
 
 ```
 
