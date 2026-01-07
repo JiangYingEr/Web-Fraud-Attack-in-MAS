@@ -25,7 +25,7 @@ llm:
 ```
 ## 3. Run
 ```
-python struct1/linear_defense0.py
+python Linear/linear_defense0.py
 ```
 
 ## Note
